@@ -1,0 +1,6 @@
+C:\Users\denni\Videos\HotelApplication\HotelAppDB\bin\Debug\HotelAppDB.dacpac
+C:\Users\denni\Videos\HotelApplication\HotelAppDB\bin\Debug\HotelAppDB.dll
+C:\Users\denni\Videos\HotelApplication\HotelAppDB\bin\Debug\HotelAppDB.pdb
+C:\Users\denni\Videos\HotelApplication\HotelAppDB\obj\Debug\HotelAppDB.sqlproj.AssemblyReference.cache
+C:\Users\denni\Videos\HotelApplication\HotelAppDB\obj\Debug\HotelAppDB.dll
+C:\Users\denni\Videos\HotelApplication\HotelAppDB\obj\Debug\HotelAppDB.pdb
