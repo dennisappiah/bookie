@@ -4,3 +4,17 @@ C:\Users\denni\Videos\HotelApplication\HotelAppDB\bin\Debug\HotelAppDB.pdb
 C:\Users\denni\Videos\HotelApplication\HotelAppDB\obj\Debug\HotelAppDB.sqlproj.AssemblyReference.cache
 C:\Users\denni\Videos\HotelApplication\HotelAppDB\obj\Debug\HotelAppDB.dll
 C:\Users\denni\Videos\HotelApplication\HotelAppDB\obj\Debug\HotelAppDB.pdb
+C:\Users\denni\Videos\HotelApplication\HotelAppDB\obj\Debug\Model.xml
+C:\Users\denni\Videos\HotelApplication\HotelAppDB\obj\Debug\refactor.xml
+C:\Users\denni\Videos\HotelApplication\HotelAppDB\obj\Debug\postdeploy.sql
+C:\Users\denni\Videos\HotelApplication\HotelAppDB\obj\Debug\predeploy.sql
+C:\Users\Dennis Appiah\Videos\HotelApplication\HotelAppDB\bin\Debug\HotelAppDB.dacpac
+C:\Users\Dennis Appiah\Videos\HotelApplication\HotelAppDB\bin\Debug\HotelAppDB.dll
+C:\Users\Dennis Appiah\Videos\HotelApplication\HotelAppDB\bin\Debug\HotelAppDB.pdb
+C:\Users\Dennis Appiah\Videos\HotelApplication\HotelAppDB\obj\Debug\HotelAppDB.sqlproj.AssemblyReference.cache
+C:\Users\Dennis Appiah\Videos\HotelApplication\HotelAppDB\obj\Debug\Model.xml
+C:\Users\Dennis Appiah\Videos\HotelApplication\HotelAppDB\obj\Debug\refactor.xml
+C:\Users\Dennis Appiah\Videos\HotelApplication\HotelAppDB\obj\Debug\postdeploy.sql
+C:\Users\Dennis Appiah\Videos\HotelApplication\HotelAppDB\obj\Debug\predeploy.sql
+C:\Users\Dennis Appiah\Videos\HotelApplication\HotelAppDB\obj\Debug\HotelAppDB.dll
+C:\Users\Dennis Appiah\Videos\HotelApplication\HotelAppDB\obj\Debug\HotelAppDB.pdb
