@@ -20,10 +20,7 @@ namespace HotalAppLibrary.Databases
             _config = config;
         }
 
-        public List<T> LoadData<T, U>(string sql,
-                                  U parameters,
-                                  string connectionStringName,
-                                  bool isStoredProcedure = false)
+        public List<T> LoadData<T, U>(string sql, U parameters, string connectionStringName, bool isStoredProcedure = false)
         {
 
             string connectionString = _config.GetConnectionString(connectionStringName);
@@ -45,10 +42,7 @@ namespace HotalAppLibrary.Databases
         }
 
 
-        public void SaveData<T>(string sqlStatement,
-                                T dataparameters,
-                                string connectionStringName,
-                                   bool isStoredProcedure = false)
+        public void SaveData<T>(string sqlStatement,  T dataparameters, string connectionStringName, bool isStoredProcedure = false)
         {
 
             string connectionString = _config.GetConnectionString(connectionStringName);

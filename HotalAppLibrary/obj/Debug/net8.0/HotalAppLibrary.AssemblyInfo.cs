@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HotalAppLibrary")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a37f15dcbe25735f9edfb3174b3ead2e310c6962")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+56f5d6ab074ffb5393bfa7fcd29a77fd84933bf1")]
 [assembly: System.Reflection.AssemblyProductAttribute("HotalAppLibrary")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HotalAppLibrary")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
